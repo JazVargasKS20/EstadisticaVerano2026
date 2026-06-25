@@ -1,4 +1,5 @@
 📚 Student Performance Dataset
+
 📝 Descripción
 El Student Performance Dataset es un conjunto de datos diseñado para analizar los factores que influyen en el rendimiento académico de los estudiantes.
 
@@ -7,11 +8,14 @@ El dataset contiene 10,000 registros de estudiantes, donde cada registro incluye
 la base de datos es [aqui](https://www.kaggle.com/datasets/nikhil7280/student-performance-multiple-linear-regression)
 
 📊 Variables
+
 ⏱️ Hours Studied
 Número total de horas dedicadas al estudio por cada estudiante.
 
+
 📈 Previous Scores
 Puntuaciones obtenidas por los estudiantes en evaluaciones anteriores.
+
 
 🎭 Extracurricular Activities
 Indica si el estudiante participa en actividades extracurriculares.
@@ -20,6 +24,7 @@ Valores posibles:
 
 Yes
 No
+
 😴 Sleep Hours
 Promedio de horas de sueño que el estudiante tiene por día.
 
