@@ -41,6 +41,7 @@ Representa el desempeño académico general.
 Está redondeado al número entero más cercano.
 Su rango va de 10 a 100.
 Un valor más alto indica un mejor rendimiento académico.
+
 🔍 Objetivo del Dataset
 Este conjunto de datos busca proporcionar información sobre la relación entre las variables predictoras y el índice de rendimiento académico.
 
